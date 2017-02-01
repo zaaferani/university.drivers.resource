@@ -1,4 +1,4 @@
-package service;
+package ir.zaaferani.uiversity.service;
 
 import ir.zaaferani.uiversity.models.ElementModel;
 import ir.zaaferani.uiversity.models.ServiceResult;
