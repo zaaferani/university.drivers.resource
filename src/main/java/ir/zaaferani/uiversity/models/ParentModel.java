@@ -1,4 +1,4 @@
-package models;
+package ir.zaaferani.uiversity.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

@@ -1,4 +1,4 @@
-package models;
+package ir.zaaferani.uiversity.models;
 
 public class ServiceResult {
 

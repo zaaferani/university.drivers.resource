@@ -1,7 +1,7 @@
 package service;
 
-import models.ElementModel;
-import models.ServiceResult;
+import ir.zaaferani.uiversity.models.ElementModel;
+import ir.zaaferani.uiversity.models.ServiceResult;
 
 import java.util.HashMap;
 import java.util.Map;

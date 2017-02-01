@@ -1,4 +1,4 @@
-package models;
+package ir.zaaferani.uiversity.models;
 
 import java.util.ArrayList;
 import java.util.List;

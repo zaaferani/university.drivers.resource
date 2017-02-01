@@ -1,8 +1,8 @@
 
-package service;
+package ir.zaaferani.uiversity.service;
 
-import models.ElementModel;
-import models.ServiceResult;
+import ir.zaaferani.uiversity.models.ElementModel;
+import ir.zaaferani.uiversity.models.ServiceResult;
 
 public interface ResourceService {
 
